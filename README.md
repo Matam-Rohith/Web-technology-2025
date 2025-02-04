@@ -8,6 +8,8 @@
 [LAB-02(Weather Dashboard)](https://github.com/Matam-Rohith/Web-technology-2025/blob/main/Lab-02/Lab-02(Part-1)%5BWeather%5D.html)
    # Personal Finance Tracker
 [LAB-02(Personal Finance Tracker)](https://github.com/Matam-Rohith/Web-technology-2025/blob/main/Lab-02/Lab-02(Part-2)%5BPersonal%20Finance%20Tracker%5D.html)
+   # Student Mangement System
+[LAB-2.2(Student Mangement System)[https://github.com/Matam-Rohith/Web-technology-2025/blob/main/LAB-2.2/Student.html)
 
 
 
